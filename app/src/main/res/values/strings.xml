@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AssignmentInternship</string>
+    <string name="facebook_app_id">289640368351682</string>
+    <string name="fb_login_protocol_scheme">fb289640368351682</string>
+    <string name="username">Username</string>
+    <string name="email_address">Email Address</string>
+    <string name="todo">TODO</string>
+    <string name="current_location">Current Location</string>
+
+</resources>
